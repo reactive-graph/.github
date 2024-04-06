@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/graph-cms/graph-cms"><img src="https://raw.githubusercontent.com/graph-cms/.github/main/profile/images/5741_2048.png" alt="Graph CMS"></a>
+  <a href="https://github.com/reactive-graph/reactive-graph"><img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/reactive-graph_1024.png" alt="Reactive Graph"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/graph-cms/graph-cms">Graph CMS is a content management system based on a graph database with a reactive programming model.</a>
+  <a href="https://github.com/reactive-graph/reactive-graph">Reactive Graph is a reactive runtime based on a graph database.</a>
 </p>
