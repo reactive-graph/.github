@@ -1,3 +1,7 @@
+<style>
+    @import "https://unpkg.com/open-props";
+</style>
+
 <p align="center">
   <a href="https://github.com/reactive-graph/reactive-graph"><img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/reactive-graph-full-mexican-pink-black_512.png" alt="Reactive Graph"></a>
 </p>
@@ -6,7 +10,7 @@
 </p>
 
 <h3 align="center">Used by</h3>
-<p align="center" style="text-align: center; background-color: white; padding: 10px; margin-left: 30%; margin-right: 30%; border-radius: 12px;">
+<p align="center" style=" background-image: var(--gradient-5); text-align: center; background-color: white; padding: 10px; margin-left: 30%; margin-right: 30%; border-radius: 12px;">
   <a href="https://github.com/inexorgame/">
     <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/inexor.png" style="width: 48px; height: 48px;" alt="Inexor">
   </a>
