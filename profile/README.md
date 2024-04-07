@@ -1,13 +1,14 @@
-<style>
-    @import "https://unpkg.com/open-props";
-</style>
-
 <p align="center">
   <a href="https://github.com/reactive-graph/reactive-graph"><img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/reactive-graph-full-mexican-pink-black_512.png" alt="Reactive Graph"></a>
 </p>
 <p align="center">
   <a href="https://github.com/reactive-graph/reactive-graph">Reactive Graph</a> is a <b>reactive runtime</b> based on a <b>graph database</b>.
 </p>
+
+<h3 align="center">Used by (SVG)</h3>
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/sections/used-by.svg" style="width: 100%;" alt="Used by">
+</div>
 
 <h3 align="center">Used by</h3>
 <p align="center" style=" background-image: var(--gradient-5); text-align: center; background-color: white; padding: 10px; margin-left: 30%; margin-right: 30%; border-radius: 12px;">
