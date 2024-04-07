@@ -7,17 +7,17 @@
 
 <h3 align="center">Runs on</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/linux-original.svg" style="width: 96px; height: 96px;" alt="Linux">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/ubuntu-original.svg" style="width: 96px; height: 96px;" alt="Ubuntu">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/raspberrypi-original.svg" style="width: 96px; height: 96px;" alt="Raspberry Pi">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/windows8-original.svg" style="width: 96px; height: 96px;" alt="Windows">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/apple-original.svg" style="width: 96px; height: 96px;" alt="Mac OS X">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/linux-original.svg" style="width: 48px; height: 48px;" alt="Linux">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/ubuntu-original.svg" style="width: 48px; height: 48px;" alt="Ubuntu">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/raspberrypi-original.svg" style="width: 48px; height: 48px;" alt="Raspberry Pi">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/windows8-original.svg" style="width: 48px; height: 48px;" alt="Windows">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/apple-original.svg" style="width: 48px; height: 48px;" alt="Mac OS X">
 </p>
 
 <h3 align="center">Uses</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/rust-original.svg" style="width: 96px; height: 96px;" alt="Rust">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/graphql-plain.svg" style="width: 96px; height: 96px;" alt="GraphQL">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/wasm-original.svg" style="width: 96px; height: 96px;" alt="Web Assembly">
-  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/tauri-original.svg" style="width: 96px; height: 96px;" alt="Tauri">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/rust-original.svg" style="width: 48px; height: 48px;" alt="Rust">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/graphql-plain.svg" style="width: 48px; height: 48px;" alt="GraphQL">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/wasm-original.svg" style="width: 48px; height: 48px;" alt="Web Assembly">
+  <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/tauri-original.svg" style="width: 48px; height: 48px;" alt="Tauri">
 </p>
