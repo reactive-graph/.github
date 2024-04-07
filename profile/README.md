@@ -5,6 +5,20 @@
   <a href="https://github.com/reactive-graph/reactive-graph">Reactive Graph</a> is a <b>reactive runtime</b> based on a <b>graph database</b>.
 </p>
 
+<h3 align="center">Used by</h3>
+<p align="center">
+  <a href="https://github.com/inexorgame/">
+    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/inexor.png" style="width: 48px; height: 48px;" alt="Inexor">
+  </a>
+  <a href="https://github.com/graph-cms/">
+    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/graph-cms.png" style="width: 48px; height: 48px;" alt="Graph CMS">
+  </a>
+  <a href="https://github.com/smearor/">
+    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/smearor.jpg" style="width: 48px; height: 48px;" alt="Smearor">
+  </a>
+</p>
+
+
 <h3 align="center">Runs on</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/linux-original.svg" style="width: 48px; height: 48px;" alt="Linux">
