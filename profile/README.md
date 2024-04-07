@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">Used by</h3>
-<p align="center">
+<p align="center" style="text-align: center; background-color: white; padding: 10px; margin-left: 30%; margin-right: 30%; border-radius: 12px;">
   <a href="https://github.com/inexorgame/">
     <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/inexor.png" style="width: 48px; height: 48px;" alt="Inexor">
   </a>
@@ -20,7 +20,8 @@
 
 
 <h3 align="center">Runs on</h3>
-<p align="center">
+
+<p align="center" style="text-align: center; background-color: white; padding: 10px; margin-left: 30%; margin-right: 30%; border-radius: 12px;">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/linux-original.svg" style="width: 48px; height: 48px;" alt="Linux">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/ubuntu-original.svg" style="width: 48px; height: 48px;" alt="Ubuntu">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/raspberrypi-original.svg" style="width: 48px; height: 48px;" alt="Raspberry Pi">
@@ -29,7 +30,8 @@
 </p>
 
 <h3 align="center">Uses</h3>
-<p align="center">
+
+<p align="center" style="text-align: center; background-color: white; padding: 10px; margin-left: 30%; margin-right: 30%; border-radius: 12px;">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/rust-original.svg" style="width: 48px; height: 48px;" alt="Rust">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/graphql-plain.svg" style="width: 48px; height: 48px;" alt="GraphQL">
   <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/wasm-original.svg" style="width: 48px; height: 48px;" alt="Web Assembly">
