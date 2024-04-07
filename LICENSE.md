@@ -1,6 +1,6 @@
-MIT License
+# MIT License
 
-Copyright (c) 2022 reactive-graph-flow
+Copyright (c) 2024 Andreas Schaeffer, The Reactive Graph Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
