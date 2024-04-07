@@ -1,0 +1,50 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @import "https://unpkg.com/open-props";
+                .section {
+                    background-image: var(--gradient-5);
+                    text-align: center;
+                    background-color: white;
+                    padding: 10px;
+                    margin-left: 30%;
+                    margin-right: 30%;
+                    border-radius: 12px;
+                }
+            </style>
+
+            <h3>Used by</h3>
+            <p class="section">
+                <a href="https://github.com/inexorgame/">
+                    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/inexor.png" style="width: 48px; height: 48px;" />
+                </a>
+<!--                <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/inexor.png" style="width: 48px; height: 48px;" alt="Inexor">-->
+<!--                <a href="https://github.com/inexorgame/">-->
+<!--                    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/inexor.png" style="width: 48px; height: 48px;" alt="Inexor">-->
+<!--                </a>-->
+<!--                <a href="https://github.com/graph-cms/">-->
+<!--                    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/graph-cms.png" style="width: 48px; height: 48px;" alt="Graph CMS">-->
+<!--                </a>-->
+<!--                <a href="https://github.com/smearor/">-->
+<!--                    <img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/icons/smearor.jpg" style="width: 48px; height: 48px;" alt="Smearor">-->
+<!--                </a>-->
+            </p>
+
+
+<!--            <style>-->
+<!--                .container {-->
+<!--                display: flex;-->
+<!--                width: 100%;-->
+<!--                height: 300px;-->
+<!--                background-color: black;-->
+<!--                color: white;-->
+<!--                }-->
+<!--            </style>-->
+
+<!--            <div class="container">-->
+<!--                <h1>Hi there, my name is Nikola 👋</h1>-->
+<!--            </div>-->
+        </div>
+    </foreignObject>
+</svg>
