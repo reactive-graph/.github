@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/reactive-graph/reactive-graph"><img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/reactive-graph.svg" alt="Reactive Graph"></a>
+  <a href="https://github.com/reactive-graph/reactive-graph"><img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/reactive-graph.svg" alt="Reactive Graph" style="width: 400px; height: 400px;"></a>
 </p>
 <p align="center">
   <a href="https://github.com/reactive-graph/reactive-graph">Reactive Graph</a> is a <b>reactive runtime</b> based on a <b>graph database</b> , empowering everyone to build reliable and efficient software.
