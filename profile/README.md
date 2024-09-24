@@ -2,7 +2,7 @@
   <a href="https://github.com/reactive-graph/reactive-graph"><img src="https://raw.githubusercontent.com/reactive-graph/.github/main/profile/images/reactive-graph-full-mexican-pink-black_512.png" alt="Reactive Graph"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/reactive-graph/reactive-graph">Reactive Graph</a> is a <b>reactive runtime</b> based on a <b>graph database</b>.
+  <a href="https://github.com/reactive-graph/reactive-graph">Reactive Graph</a> is a <b>reactive runtime</b> based on a <b>graph database</b> , empowering everyone to build reliable and efficient software.
 </p>
 
 <h3 align="center">Used by</h3>
